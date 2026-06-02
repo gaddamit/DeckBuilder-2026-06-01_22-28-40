@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d6edb943ed83450a9931f91b16b2440, type: 3}
+  m_Name: Card_007
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  _id: 7
+  _name: Healing Poition
+  _cost: 2
+  _stats: Spell
+  _description: Restores 6 Health to your Hero.
+  _illustration: {fileID: 21300000, guid: 7f8901d59570b4f55a092ee390fa1239, type: 3}
